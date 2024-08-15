@@ -1,0 +1,13 @@
+{
+    "name": "your-react-app",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+      // your dependencies here
+    },
+    "scripts": {
+      // your scripts here
+    },
+    "proxy": "http://localhost:3307"
+  }
+  
